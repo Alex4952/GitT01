@@ -4,6 +4,7 @@ using namespace std;
 int main() {
 	cout << "original_source" << endl;
 	cout << "to test sync" << endl;
+	cout << "to test push" << endl;
 
 	return 0;
 }
